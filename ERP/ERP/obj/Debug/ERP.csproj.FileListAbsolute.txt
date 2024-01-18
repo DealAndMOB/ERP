@@ -1,0 +1,1442 @@
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\ERP.dll.config
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\ERP.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\ERP.pdb
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\csc.exe
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\csc.exe.config
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\csc.rsp
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\csi.exe
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\csi.exe.config
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\csi.rsp
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\System.Buffers.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\System.Memory.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\vbc.exe
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\vbc.exe.config
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\vbc.rsp
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\EntityFramework.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\EntityFramework.SqlServer.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\Newtonsoft.Json.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\System.Net.Http.Formatting.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\System.Web.Http.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\System.Web.Http.WebHost.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\EntityFramework.xml
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\EntityFramework.SqlServer.xml
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\Newtonsoft.Json.xml
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\System.Net.Http.Formatting.xml
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\System.Web.Http.xml
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\System.Web.Http.WebHost.xml
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\es\System.Web.Http.resources.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\obj\Debug\ERP.csproj.AssemblyReference.cache
+C:\Users\Equipo 17\source\repos\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+C:\Users\Equipo 17\source\repos\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+C:\Users\Equipo 17\source\repos\ERP\ERP\obj\Debug\ERP.dll
+C:\Users\Equipo 17\source\repos\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\ERP.dll.config
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\ERP.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\ERP.pdb
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\csc.exe
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\csc.exe.config
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\csc.rsp
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\csi.exe
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\csi.exe.config
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\csi.rsp
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\System.Buffers.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\System.Memory.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\vbc.exe
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\vbc.exe.config
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\vbc.rsp
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\EntityFramework.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\EntityFramework.SqlServer.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\Newtonsoft.Json.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\System.Net.Http.Formatting.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\System.Web.Http.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\System.Web.Http.WebHost.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\EntityFramework.xml
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\EntityFramework.SqlServer.xml
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\Newtonsoft.Json.xml
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\System.Net.Http.Formatting.xml
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\System.Web.Http.xml
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\System.Web.Http.WebHost.xml
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\es\System.Web.Http.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\obj\Debug\ERP.csproj.AssemblyReference.cache
+C:\Users\Equipo 17\Desktop\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+C:\Users\Equipo 17\Desktop\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+C:\Users\Equipo 17\Desktop\ERP\ERP\obj\Debug\ERP.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\obj\Debug\ERP.pdb
+E:\ERP\ERP\ERP\bin\ERP.dll.config
+E:\ERP\ERP\ERP\bin\ERP.dll
+E:\ERP\ERP\ERP\bin\ERP.pdb
+E:\ERP\ERP\ERP\bin\roslyn\csc.exe
+E:\ERP\ERP\ERP\bin\roslyn\csc.exe.config
+E:\ERP\ERP\ERP\bin\roslyn\csc.rsp
+E:\ERP\ERP\ERP\bin\roslyn\csi.exe
+E:\ERP\ERP\ERP\bin\roslyn\csi.exe.config
+E:\ERP\ERP\ERP\bin\roslyn\csi.rsp
+E:\ERP\ERP\ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ERP\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ERP\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ERP\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ERP\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ERP\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ERP\ERP\ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ERP\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ERP\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ERP\ERP\ERP\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ERP\ERP\ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ERP\ERP\ERP\bin\roslyn\System.Buffers.dll
+E:\ERP\ERP\ERP\bin\roslyn\System.Collections.Immutable.dll
+E:\ERP\ERP\ERP\bin\roslyn\System.Memory.dll
+E:\ERP\ERP\ERP\bin\roslyn\System.Numerics.Vectors.dll
+E:\ERP\ERP\ERP\bin\roslyn\System.Reflection.Metadata.dll
+E:\ERP\ERP\ERP\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\ERP\ERP\ERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ERP\ERP\ERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ERP\ERP\ERP\bin\roslyn\vbc.exe
+E:\ERP\ERP\ERP\bin\roslyn\vbc.exe.config
+E:\ERP\ERP\ERP\bin\roslyn\vbc.rsp
+E:\ERP\ERP\ERP\bin\roslyn\VBCSCompiler.exe
+E:\ERP\ERP\ERP\bin\roslyn\VBCSCompiler.exe.config
+E:\ERP\ERP\ERP\bin\EntityFramework.dll
+E:\ERP\ERP\ERP\bin\EntityFramework.SqlServer.dll
+E:\ERP\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ERP\ERP\ERP\bin\Newtonsoft.Json.dll
+E:\ERP\ERP\ERP\bin\System.Net.Http.Formatting.dll
+E:\ERP\ERP\ERP\bin\System.Web.Http.dll
+E:\ERP\ERP\ERP\bin\System.Web.Http.WebHost.dll
+E:\ERP\ERP\ERP\bin\EntityFramework.xml
+E:\ERP\ERP\ERP\bin\EntityFramework.SqlServer.xml
+E:\ERP\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ERP\ERP\ERP\bin\Newtonsoft.Json.xml
+E:\ERP\ERP\ERP\bin\System.Net.Http.Formatting.xml
+E:\ERP\ERP\ERP\bin\System.Web.Http.xml
+E:\ERP\ERP\ERP\bin\System.Web.Http.WebHost.xml
+E:\ERP\ERP\ERP\bin\es\System.Net.Http.Formatting.resources.dll
+E:\ERP\ERP\ERP\bin\es\System.Web.Http.resources.dll
+E:\ERP\ERP\ERP\bin\es\System.Web.Http.WebHost.resources.dll
+E:\ERP\ERP\ERP\obj\Debug\ERP.csproj.AssemblyReference.cache
+E:\ERP\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+E:\ERP\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+E:\ERP\ERP\ERP\obj\Debug\ERP.dll
+E:\ERP\ERP\ERP\obj\Debug\ERP.pdb
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\ERP.dll.config
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\ERP.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\ERP.pdb
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\csc.exe
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\csc.exe.config
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\csc.rsp
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\csi.exe
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\csi.exe.config
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\csi.rsp
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\System.Buffers.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\System.Memory.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\System.Numerics.Vectors.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\vbc.exe
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\vbc.exe.config
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\vbc.rsp
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\EntityFramework.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\Newtonsoft.Json.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\System.Net.Http.Formatting.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\System.Web.Http.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\System.Web.Http.WebHost.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\EntityFramework.xml
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\Newtonsoft.Json.xml
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\System.Net.Http.Formatting.xml
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\System.Web.Http.xml
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\System.Web.Http.WebHost.xml
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\es\System.Net.Http.Formatting.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\es\System.Web.Http.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\es\System.Web.Http.WebHost.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\obj\Debug\ERP.csproj.AssemblyReference.cache
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\obj\Debug\ERP.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\obj\Debug\ERP.pdb
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\BouncyCastle.Crypto.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\Humanizer.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\itextsharp.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\jose-jwt.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\Humanizer.xml
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\itextsharp.xml
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\af\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\ar\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\az\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\bg\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\bn-BD\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\cs\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\da\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\de\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\el\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\es\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\fa\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\fi-FI\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\fr\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\fr-BE\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\he\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\hr\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\hu\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\id\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\is\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\it\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\ja\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\ko-KR\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\ku\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\lv\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\ms-MY\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\mt\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\nb\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\nb-NO\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\nl\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\pl\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\pt\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\ro\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\ru\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\sk\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\sl\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\sr\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\sr-Latn\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\sv\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\th-TH\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\tr\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\uk\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\uz-Latn-UZ\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\vi\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\zh-CN\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\zh-Hans\Humanizer.resources.dll
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\bin\zh-Hant\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\ERP.dll.config
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\ERP.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\ERP.pdb
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\csc.exe
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\csc.exe.config
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\csc.rsp
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\csi.exe
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\csi.exe.config
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\csi.rsp
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\System.Buffers.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\System.Memory.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\System.Numerics.Vectors.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\vbc.exe
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\vbc.exe.config
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\vbc.rsp
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\BouncyCastle.Crypto.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\EntityFramework.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\Humanizer.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\itextsharp.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\jose-jwt.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\Newtonsoft.Json.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\System.Net.Http.Formatting.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\System.Web.Http.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\System.Web.Http.WebHost.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\EntityFramework.xml
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\Humanizer.xml
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\itextsharp.xml
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\Newtonsoft.Json.xml
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\System.Net.Http.Formatting.xml
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\System.Web.Http.xml
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\System.Web.Http.WebHost.xml
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\af\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\ar\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\az\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\bg\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\bn-BD\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\cs\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\da\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\de\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\el\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\es\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\fa\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\fi-FI\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\fr\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\fr-BE\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\he\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\hr\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\hu\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\id\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\is\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\it\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\ja\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\ko-KR\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\ku\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\lv\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\ms-MY\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\mt\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\nb\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\nb-NO\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\nl\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\pl\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\pt\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\ro\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\ru\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\sk\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\sl\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\sr\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\sr-Latn\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\sv\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\th-TH\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\tr\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\uk\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\uz-Latn-UZ\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\vi\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\zh-CN\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\zh-Hans\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\zh-Hant\Humanizer.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\es\System.Net.Http.Formatting.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\es\System.Web.Http.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\bin\es\System.Web.Http.WebHost.resources.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\obj\Debug\ERP.csproj.AssemblyReference.cache
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\obj\Debug\ERP.Migrations.migracion1.resources
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\obj\Debug\ERP.Migrations.MigracionDos.resources
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.cache
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\obj\Debug\ERP.dll
+D:\PROGRAMAS\Repos\AGCComercial\ERP\ERP\obj\Debug\ERP.pdb
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\ERP.dll.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\ERP.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\ERP.pdb
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\csc.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\csc.exe.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\csc.rsp
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\csi.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\csi.exe.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\csi.rsp
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\System.Buffers.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\System.Collections.Immutable.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\System.Memory.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\System.Numerics.Vectors.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\vbc.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\vbc.exe.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\vbc.rsp
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\VBCSCompiler.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\roslyn\VBCSCompiler.exe.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\BouncyCastle.Crypto.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\EntityFramework.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\EntityFramework.SqlServer.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\Humanizer.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\itextsharp.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\jose-jwt.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\Newtonsoft.Json.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\System.Net.Http.Formatting.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\System.Web.Http.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\System.Web.Http.WebHost.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\EntityFramework.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\EntityFramework.SqlServer.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\Humanizer.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\itextsharp.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\Newtonsoft.Json.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\System.Net.Http.Formatting.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\System.Web.Http.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\System.Web.Http.WebHost.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\af\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\ar\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\az\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\bg\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\bn-BD\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\cs\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\da\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\de\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\el\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\es\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\fa\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\fi-FI\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\fr\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\fr-BE\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\he\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\hr\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\hu\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\id\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\is\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\it\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\ja\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\ko-KR\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\ku\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\lv\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\ms-MY\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\mt\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\nb\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\nb-NO\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\nl\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\pl\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\pt\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\ro\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\ru\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\sk\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\sl\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\sr\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\sr-Latn\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\sv\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\th-TH\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\tr\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\uk\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\uz-Latn-UZ\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\vi\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\zh-CN\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\zh-Hans\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\zh-Hant\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\es\System.Web.Http.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\obj\Debug\ERP.csproj.AssemblyReference.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\obj\Debug\ERP.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\obj\Debug\ERP.pdb
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\bin\HTTPupt.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\BouncyCastle.Crypto.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\Humanizer.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\itextsharp.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\jose-jwt.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\Humanizer.xml
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\itextsharp.xml
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\af\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\ar\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\az\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\bg\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\bn-BD\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\cs\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\da\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\de\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\el\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\es\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\fa\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\fi-FI\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\fr\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\fr-BE\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\he\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\hr\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\hu\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\id\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\is\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\it\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\ja\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\ko-KR\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\ku\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\lv\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\ms-MY\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\mt\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\nb\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\nb-NO\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\nl\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\pl\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\pt\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\ro\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\ru\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\sk\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\sl\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\sr\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\sr-Latn\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\sv\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\th-TH\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\tr\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\uk\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\vi\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\zh-CN\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\zh-Hans\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\bin\zh-Hant\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.cache
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\ERP.dll.config
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\ERP.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\ERP.pdb
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\csc.exe
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\csc.exe.config
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\csc.rsp
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\csi.exe
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\csi.exe.config
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\csi.rsp
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\System.Buffers.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\System.Memory.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\vbc.exe
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\vbc.exe.config
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\vbc.rsp
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\BouncyCastle.Crypto.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\EntityFramework.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\EntityFramework.SqlServer.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\Humanizer.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\itextsharp.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\jose-jwt.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\Newtonsoft.Json.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\System.Net.Http.Formatting.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\System.Web.Http.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\System.Web.Http.WebHost.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\EntityFramework.xml
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\EntityFramework.SqlServer.xml
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\Humanizer.xml
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\itextsharp.xml
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\Newtonsoft.Json.xml
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\System.Net.Http.Formatting.xml
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\System.Web.Http.xml
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\System.Web.Http.WebHost.xml
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\af\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\ar\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\az\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\bg\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\bn-BD\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\cs\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\da\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\de\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\el\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\es\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\fa\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\fi-FI\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\fr\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\fr-BE\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\he\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\hr\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\hu\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\id\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\is\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\it\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\ja\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\ko-KR\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\ku\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\lv\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\ms-MY\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\mt\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\nb\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\nb-NO\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\nl\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\pl\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\pt\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\ro\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\ru\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\sk\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\sl\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\sr\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\sr-Latn\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\sv\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\th-TH\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\tr\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\uk\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\vi\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\zh-CN\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\zh-Hans\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\zh-Hant\Humanizer.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\es\System.Web.Http.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\obj\Debug\ERP.csproj.AssemblyReference.cache
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\obj\Debug\ERP.Migrations.migracion1.resources
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\obj\Debug\ERP.Migrations.MigracionDos.resources
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.cache
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\obj\Debug\ERP.dll
+C:\Users\Equipo 17\Desktop\AGC-2023\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\Equipo 17\Desktop\ERP\ERP\obj\Debug\ERP.Migrations.ReajusteVta.resources
+C:\Users\Equipo 17\Desktop\ERP\ERP\obj\Debug\ERP.Migrations.Nulos.resources
+C:\Users\Equipo 17\Desktop\ERP\ERP\obj\Debug\ERP.Migrations.ReajustePedido.resources
+C:\Users\Equipo 17\Desktop\ERP\ERP\obj\Debug\ERP.Migrations.Reajuste2Pedido.resources
+C:\Users\Equipo 17\Desktop\ERP\ERP\obj\Debug\ERP.Migrations.addIndice.resources
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\ERP.dll.config
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\ERP.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\ERP.pdb
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\csc.exe
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\csi.exe
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\System.Buffers.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\System.Memory.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\EntityFramework.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\Humanizer.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\itextsharp.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\jose-jwt.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\System.Web.Http.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\EntityFramework.xml
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\Humanizer.xml
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\itextsharp.xml
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\System.Web.Http.xml
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\af\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\ar\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\az\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\bg\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\bn-BD\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\cs\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\da\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\de\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\el\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\es\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\fa\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\fi-FI\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\fr\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\fr-BE\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\he\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\hr\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\hu\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\id\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\is\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\it\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\ja\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\ko-KR\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\ku\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\lv\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\ms-MY\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\mt\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\nb\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\nb-NO\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\nl\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\pl\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\pt\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\ro\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\ru\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\sk\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\sl\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\sr\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\sr-Latn\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\sv\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\th-TH\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\tr\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\uk\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\vi\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\zh-CN\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\zh-Hans\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\zh-Hant\Humanizer.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\es\System.Web.Http.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\obj\Debug\ERP.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\obj\Debug\ERP.Migrations.ReajusteVta.resources
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\obj\Debug\ERP.Migrations.Nulos.resources
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\obj\Debug\ERP.Migrations.ReajustePedido.resources
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\obj\Debug\ERP.Migrations.Reajuste2Pedido.resources
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\obj\Debug\ERP.Migrations.addIndice.resources
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\obj\Debug\ERP.dll
+C:\Users\user\Desktop\CambioaAGC\ERP-Actu-Diseño\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\user\Desktop\ERP\ERP\bin\ERP.dll.config
+C:\Users\user\Desktop\ERP\ERP\bin\ERP.dll
+C:\Users\user\Desktop\ERP\ERP\bin\ERP.pdb
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\csc.exe
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\csi.exe
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\System.Buffers.dll
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\System.Memory.dll
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\ERP\ERP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\ERP\ERP\bin\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\ERP\ERP\bin\EntityFramework.dll
+C:\Users\user\Desktop\ERP\ERP\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\ERP\ERP\bin\Humanizer.dll
+C:\Users\user\Desktop\ERP\ERP\bin\itextsharp.dll
+C:\Users\user\Desktop\ERP\ERP\bin\jose-jwt.dll
+C:\Users\user\Desktop\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\ERP\ERP\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\ERP\ERP\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\ERP\ERP\bin\System.Web.Http.dll
+C:\Users\user\Desktop\ERP\ERP\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\ERP\ERP\bin\EntityFramework.xml
+C:\Users\user\Desktop\ERP\ERP\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\ERP\ERP\bin\Humanizer.xml
+C:\Users\user\Desktop\ERP\ERP\bin\itextsharp.xml
+C:\Users\user\Desktop\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\ERP\ERP\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\ERP\ERP\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\ERP\ERP\bin\System.Web.Http.xml
+C:\Users\user\Desktop\ERP\ERP\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\ERP\ERP\bin\af\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\ar\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\az\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\bg\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\bn-BD\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\cs\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\da\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\de\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\el\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\es\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\fa\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\fi-FI\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\fr\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\fr-BE\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\he\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\hr\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\hu\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\id\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\is\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\it\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\ja\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\ko-KR\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\ku\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\lv\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\ms-MY\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\mt\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\nb\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\nb-NO\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\nl\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\pl\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\pt\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\ro\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\ru\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\sk\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\sl\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\sr\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\sr-Latn\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\sv\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\th-TH\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\tr\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\uk\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\vi\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\zh-CN\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\zh-Hans\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\zh-Hant\Humanizer.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\es\System.Web.Http.resources.dll
+C:\Users\user\Desktop\ERP\ERP\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\user\Desktop\ERP\ERP\obj\Debug\ERP.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+C:\Users\user\Desktop\ERP\ERP\obj\Debug\ERP.dll
+C:\Users\user\Desktop\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\user\Desktop\ERP\ERP\obj\Debug\ERP.Migrations.NuevaMigracion.resources
+C:\Users\user\Desktop\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\ERP.dll.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\ERP.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\ERP.pdb
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\csc.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\csc.exe.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\csc.rsp
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\csi.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\csi.exe.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\csi.rsp
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\System.Buffers.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\System.Collections.Immutable.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\System.Memory.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\System.Numerics.Vectors.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\vbc.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\vbc.exe.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\vbc.rsp
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\VBCSCompiler.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\roslyn\VBCSCompiler.exe.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\BouncyCastle.Crypto.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\EntityFramework.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\EntityFramework.SqlServer.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\Humanizer.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\itextsharp.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\jose-jwt.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\Newtonsoft.Json.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\System.Net.Http.Formatting.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\System.Web.Http.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\System.Web.Http.WebHost.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\EntityFramework.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\EntityFramework.SqlServer.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\Humanizer.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\itextsharp.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\Newtonsoft.Json.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\System.Net.Http.Formatting.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\System.Web.Http.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\System.Web.Http.WebHost.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\af\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\ar\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\az\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\bg\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\bn-BD\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\cs\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\da\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\de\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\el\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\es\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\fa\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\fi-FI\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\fr\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\fr-BE\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\he\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\hr\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\hu\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\id\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\is\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\it\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\ja\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\ko-KR\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\ku\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\lv\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\ms-MY\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\mt\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\nb\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\nb-NO\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\nl\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\pl\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\pt\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\ro\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\ru\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\sk\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\sl\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\sr\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\sr-Latn\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\sv\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\th-TH\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\tr\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\uk\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\uz-Latn-UZ\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\vi\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\zh-CN\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\zh-Hans\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\zh-Hant\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\es\System.Web.Http.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\obj\Debug\ERP.csproj.AssemblyReference.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\obj\Debug\ERP.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\obj\Debug\ERP.pdb
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\obj\Debug\ERP.Migrations.Migracion1.resources
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\NuevaVersion2\ERP\ERP\obj\Debug\ERP.Migrations.init.resources
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\ERP.dll.config
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\ERP.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\ERP.pdb
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\csc.exe
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\csc.exe.config
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\csc.rsp
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\csi.exe
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\csi.exe.config
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\csi.rsp
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\System.Buffers.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\System.Memory.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\vbc.exe
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\vbc.exe.config
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\vbc.rsp
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\BouncyCastle.Crypto.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\EntityFramework.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\EntityFramework.SqlServer.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\Humanizer.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\itextsharp.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\jose-jwt.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\Newtonsoft.Json.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\System.Net.Http.Formatting.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\System.Web.Http.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\System.Web.Http.WebHost.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\EntityFramework.xml
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\EntityFramework.SqlServer.xml
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\Humanizer.xml
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\itextsharp.xml
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\Newtonsoft.Json.xml
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\System.Net.Http.Formatting.xml
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\System.Web.Http.xml
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\System.Web.Http.WebHost.xml
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\af\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\ar\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\az\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\bg\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\bn-BD\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\cs\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\da\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\de\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\el\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\es\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\fa\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\fi-FI\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\fr\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\fr-BE\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\he\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\hr\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\hu\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\id\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\is\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\it\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\ja\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\ko-KR\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\ku\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\lv\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\ms-MY\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\mt\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\nb\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\nb-NO\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\nl\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\pl\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\pt\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\ro\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\ru\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\sk\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\sl\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\sr\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\sr-Latn\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\sv\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\th-TH\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\tr\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\uk\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\vi\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\zh-CN\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\zh-Hans\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\zh-Hant\Humanizer.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\es\System.Web.Http.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\obj\Debug\ERP.csproj.AssemblyReference.cache
+C:\Users\Equipo 10\Desktop\ERP\ERP\obj\Debug\ERP.Migrations.init.resources
+C:\Users\Equipo 10\Desktop\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.cache
+C:\Users\Equipo 10\Desktop\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+C:\Users\Equipo 10\Desktop\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+C:\Users\Equipo 10\Desktop\ERP\ERP\obj\Debug\ERP.dll
+C:\Users\Equipo 10\Desktop\ERP\ERP\obj\Debug\ERP.pdb
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\ERP.dll.config
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\ERP.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\ERP.pdb
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\csc.exe
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\csc.exe.config
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\csc.rsp
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\csi.exe
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\csi.exe.config
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\csi.rsp
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\System.Buffers.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\System.Memory.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\vbc.exe
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\vbc.exe.config
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\vbc.rsp
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\BouncyCastle.Crypto.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\EntityFramework.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\EntityFramework.SqlServer.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\Humanizer.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\itextsharp.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\jose-jwt.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\Newtonsoft.Json.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\System.Net.Http.Formatting.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\System.Web.Http.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\System.Web.Http.WebHost.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\EntityFramework.xml
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\EntityFramework.SqlServer.xml
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\Humanizer.xml
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\itextsharp.xml
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\Newtonsoft.Json.xml
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\System.Net.Http.Formatting.xml
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\System.Web.Http.xml
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\System.Web.Http.WebHost.xml
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\af\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\ar\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\az\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\bg\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\bn-BD\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\cs\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\da\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\de\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\el\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\es\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\fa\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\fi-FI\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\fr\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\fr-BE\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\he\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\hr\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\hu\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\id\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\is\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\it\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\ja\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\ko-KR\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\ku\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\lv\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\ms-MY\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\mt\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\nb\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\nb-NO\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\nl\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\pl\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\pt\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\ro\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\ru\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\sk\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\sl\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\sr\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\sr-Latn\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\sv\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\th-TH\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\tr\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\uk\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\vi\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\zh-CN\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\zh-Hans\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\zh-Hant\Humanizer.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\es\System.Web.Http.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\obj\Debug\ERP.csproj.AssemblyReference.cache
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\obj\Debug\ERP.Migrations.InitBD.resources
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.cache
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\obj\Debug\ERP.dll
+C:\Users\Equipo 11\Desktop\ERP-Compartido\ERP\ERP\obj\Debug\ERP.pdb
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\ERP.dll.config
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\ERP.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\ERP.pdb
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\csc.exe
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\csc.exe.config
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\csc.rsp
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\csi.exe
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\csi.exe.config
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\csi.rsp
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\Microsoft.Managed.Core.targets
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\System.Buffers.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\System.Collections.Immutable.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\System.Memory.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\System.Numerics.Vectors.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\System.Reflection.Metadata.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\vbc.exe
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\vbc.exe.config
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\vbc.rsp
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\VBCSCompiler.exe
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\roslyn\VBCSCompiler.exe.config
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\BouncyCastle.Crypto.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\EntityFramework.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\EntityFramework.SqlServer.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\Humanizer.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\itextsharp.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\jose-jwt.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\Newtonsoft.Json.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\System.Net.Http.Formatting.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\System.Web.Http.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\System.Web.Http.WebHost.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\EntityFramework.xml
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\EntityFramework.SqlServer.xml
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\Humanizer.xml
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\itextsharp.xml
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\Newtonsoft.Json.xml
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\System.Net.Http.Formatting.xml
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\System.Web.Http.xml
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\System.Web.Http.WebHost.xml
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\af\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\ar\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\az\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\bg\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\bn-BD\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\cs\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\da\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\de\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\el\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\es\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\fa\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\fi-FI\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\fr\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\fr-BE\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\he\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\hr\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\hu\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\id\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\is\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\it\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\ja\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\ko-KR\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\ku\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\lv\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\ms-MY\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\mt\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\nb\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\nb-NO\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\nl\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\pl\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\pt\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\ro\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\ru\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\sk\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\sl\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\sr\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\sr-Latn\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\sv\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\th-TH\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\tr\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\uk\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\uz-Cyrl-UZ\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\uz-Latn-UZ\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\vi\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\zh-CN\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\zh-Hans\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\zh-Hant\Humanizer.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\es\System.Net.Http.Formatting.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\es\System.Web.Http.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\bin\es\System.Web.Http.WebHost.resources.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\obj\Debug\ERP.csproj.AssemblyReference.cache
+\\192.168.7.70\ERP-Compartido\ERP\ERP\obj\Debug\ERP.Migrations.InitBD.resources
+\\192.168.7.70\ERP-Compartido\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.cache
+\\192.168.7.70\ERP-Compartido\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+\\192.168.7.70\ERP-Compartido\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+\\192.168.7.70\ERP-Compartido\ERP\ERP\obj\Debug\ERP.dll
+\\192.168.7.70\ERP-Compartido\ERP\ERP\obj\Debug\ERP.pdb
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\obj\Debug\ERP.Migrations.InitBD.resources
+D:\PROGRAMAS\Practicas C#_2\AGC\ActualizacionAGC\NuevaPropuesta de interfaces\CCAI\ERP-Normal\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\ERP.dll.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\ERP.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\ERP.pdb
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\csc.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\csc.exe.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\csc.rsp
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\csi.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\csi.exe.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\csi.rsp
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\System.Buffers.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\System.Collections.Immutable.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\System.Memory.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\System.Numerics.Vectors.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\vbc.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\vbc.exe.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\vbc.rsp
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\VBCSCompiler.exe
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\roslyn\VBCSCompiler.exe.config
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\BouncyCastle.Crypto.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\EntityFramework.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\EntityFramework.SqlServer.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\HTTPupt.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\Humanizer.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\itextsharp.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\jose-jwt.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\Newtonsoft.Json.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\System.Net.Http.Formatting.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\System.Web.Http.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\System.Web.Http.WebHost.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\EntityFramework.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\EntityFramework.SqlServer.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\Humanizer.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\itextsharp.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\Newtonsoft.Json.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\System.Net.Http.Formatting.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\System.Web.Http.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\System.Web.Http.WebHost.xml
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\af\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\ar\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\az\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\bg\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\bn-BD\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\cs\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\da\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\de\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\el\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\es\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\fa\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\fi-FI\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\fr\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\fr-BE\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\he\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\hr\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\hu\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\id\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\is\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\it\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\ja\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\ko-KR\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\ku\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\lv\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\ms-MY\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\mt\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\nb\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\nb-NO\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\nl\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\pl\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\pt\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\ro\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\ru\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\sk\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\sl\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\sr\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\sr-Latn\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\sv\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\th-TH\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\tr\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\uk\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\uz-Latn-UZ\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\vi\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\zh-CN\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\zh-Hans\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\zh-Hant\Humanizer.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\es\System.Web.Http.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\obj\Debug\ERP.csproj.AssemblyReference.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\obj\Debug\ERP.Migrations.InitBD.resources
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\obj\Debug\ERP.csproj.GenerateResource.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\obj\Debug\ERP.csproj.CoreCompileInputs.cache
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\obj\Debug\ERP.csproj.CopyComplete
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\obj\Debug\ERP.dll
+D:\Documentos AlexUpt\Documents\Codigos y lenguajes\C#\Carpeta2\Apis\AGC-Apis\AGC-2023\VersionFinal\ERP\ERP\obj\Debug\ERP.pdb

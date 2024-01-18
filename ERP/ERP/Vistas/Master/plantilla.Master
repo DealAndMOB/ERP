@@ -1,0 +1,153 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="plantilla.master.cs" Inherits="ERP.Views.Master.plantilla" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <%-- Recursos - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  --%>
+    <link href="../../Media/Resources/LOGO CUBO.png" rel="Icon" />
+    <link href="../../Content/bootstrap.min.css" rel="stylesheet" />
+    <%-- Iconos - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  --%>
+    <script src="https://kit.fontawesome.com/b0cb49c5f4.js" crossorigin="anonymous"></script>
+    <script src="../../Scripts/jquery-3.6.4.min.js"></script>
+    <%-- sweetalert - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --%>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"> </script>
+    <%-- JS - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --%>
+    <script src="../../Scripts/ScriptsAsp/Alertas.js"> </script>
+    <script src="../../Scripts/ScriptsAsp/scripsFront.js"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <main id="pantallaBloqueo">
+
+        <form id="form1" runat="server">
+            <header>
+                <nav class="navbar navbar-dark bg-dark navbar-expand-lg bg-body-tertiary text-center">
+                    <div class="container-fluid text-light">
+                        <asp:HyperLink ID="hlInicio" runat="server" NavigateUrl="~/Vistas/inicio.aspx" Class="text-light TextNav" Font-Bold="True">
+                            <lu id="LogoMaster">
+                                <li>
+                                    <asp:Image ID="imgLogo" runat="server" ImageUrl="~/Media/Resources/LOGO CUBO.png" alt="Logo" Width="80" Height="60" />
+                                </li>
+                                <li>AGC Comercial
+                                </li>
+                            </lu>
+                        </asp:HyperLink><br />
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarNav">
+                            <ul class="navbar-nav p-2 gap-4">
+                                <li class="align-self-center " id="ventas">
+                                    <div class="dropdown text-light">
+                                        <asp:Label ID="lblVenta" runat="server">Módulo de ventas<i class="fa-solid fa-chevron-down down"></i></asp:Label>
+                                        <div class="dropdown-content container ">
+                                            <asp:Label ID="lblVentasNone" runat="server" ForeColor="#999999">Módulo de ventas</asp:Label>
+                                            <div class="row">
+                                                <asp:Button ID="btnCotizar" runat="server" Text="Crear cotización" CssClass="option" OnClick="btnCotizar_Click" />
+                                            </div>
+                                            <div class="row">
+                                                <asp:Button ID="btnOrden" runat="server" Text="Historial de cotización venta" CssClass="option" OnClick="btnOrden_Click" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+
+                                <li class="align-self-center" id="catalogos">
+                                    <div class="dropdown text-light">
+                                        <asp:Label ID="lblCatalogos" runat="server">Módulo de catálogos<i class="fa-solid fa-chevron-down down"></i></asp:Label>
+                                        <div class="dropdown-content container ">
+                                            <asp:Label ID="lblCatalogosNone" runat="server" ForeColor="#999999">Módulo de catálogos</asp:Label>
+                                            <div class="row">
+                                                <asp:Button ID="btnProductos" runat="server" Text="Productos" CssClass="option" OnClick="btnProductos_Click" />
+                                            </div>
+                                            <div class="row">
+                                                <asp:Button ID="btnClientes" runat="server" Text="Clientes" CssClass="option" OnClick="btnClientes_Click" />
+                                            </div>
+                                            <div class="row">
+                                                <asp:Button ID="btnProveedor" runat="server" Text="Proveedor" CssClass="option" OnClick="btnProveedor_Click" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="align-self-center " id="compras">
+                                    <div class="dropdown text-light">
+                                        <asp:Label ID="Label1" runat="server">Módulo de compras <i class="fa-solid fa-chevron-down down"></i></asp:Label>
+                                        <div class="dropdown-content container ">
+                                            <asp:Label ID="Label2" runat="server" ForeColor="#999999">Módulo de compras</asp:Label>
+                                            <div class="row">
+                                                <asp:Button ID="btnPedido" runat="server" Text="Crear pedidos" CssClass="option"  OnClick="btnPedido_Click"/>
+                                            </div>
+                                            <div class="row">
+                                                <asp:Button ID="btnHistorial" runat="server" Text="Historial de pedidos" CssClass="option" OnClick="btnHistorial_Click" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="align-self-center " id="sistema">
+                                    <div class="dropdown text-light">
+                                        <asp:Label ID="Label3" runat="server">Módulo de sistemas <i class="fa-solid fa-chevron-down down"></i></asp:Label>
+                                        <div class="dropdown-content container ">
+                                            <asp:Label ID="Label4" runat="server" ForeColor="#999999">Módulo de sistemas</asp:Label>
+                                            <div class="row">
+                                                <asp:Button ID="btnUsuarios" runat="server" Text="Usuarios" CssClass="option" OnClick="btnUsuarios_Click" />
+                                            </div>
+                                            <div class="row">
+                                                <asp:Button ID="btnDependencias" runat="server" Text="Dependencias" CssClass="option" OnClick="btnDependencias_Click" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+            </header>
+
+            <div>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+
+        </form>
+
+
+        <footer class="footer bg-dark text-center">
+            <section class="container-fluid">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-lg-3 p-2">
+                        <asp:Image ID="LogoFooter" runat="server" ImageUrl="~/Media/Resources/LOGOS AGC - LINEA DE PRODUCTOS.png" alt="Logo" />
+                    </div>
+                    <div class="col-12 col-lg-3 align-self-center">
+                        <asp:Label ID="lbFooter" runat="server" Text="Priv. Héroes de Nacozari s/n, Ozumbilla,Tecámac, Santa María Ozumbilla, C.P.55760, Edo. Méx." ForeColor="#0F777E"></asp:Label>
+                        <div class="row mb-1">
+                            <div class="col contacto">
+                                <asp:HyperLink ID="hlTel" runat="server" NavigateUrl="tel:5562351766"><i class="fa-solid fa-phone m-2 p-2 text-Footer"></i> 55-6235-1766</asp:HyperLink><br />
+                            </div>
+                            <div class="col contacto">
+                                <asp:HyperLink ID="hlWhats" runat="server" NavigateUrl="https://wa.link/sc3elf"><i class="fa-brands fa-whatsapp m-2 p-2 text-footer"></i> 779 102 3377</asp:HyperLink><br />
+                            </div>
+                        </div>
+                        <asp:Label ID="lbCopy" runat="server" Text="Derechos reservados - Centro CCAI © 2023"></asp:Label>
+                    </div>
+                    <div class="col-12 col-lg-3 align-self-center">
+                        <div class="row justify-content-center">
+                            <div class="col-12">
+                                <asp:HyperLink ID="hlFace" runat="server" NavigateUrl="https://www.facebook.com/agccomercialequipamiento"><i class="fa-brands fa-facebook m-2 text-footer"></i> @agccomercialequipamiento</asp:HyperLink><br />
+                            </div>
+                            <div class="col">
+                                <asp:HyperLink ID="hlIg" runat="server" NavigateUrl="https://www.instagram.com/agc.comercial/"><i class="fa-brands fa-instagram m-2 text-footer"></i> @agccomercial</asp:HyperLink><br />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </footer>
+    </main>
+    <script src="../../Scripts/bootstrap.min.js"></script>
+</body>
+</html>

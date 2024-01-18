@@ -1,0 +1,646 @@
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+contraseña servidor --> &ccai#2022#
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+mdoelos
+
+public virtual DbSet<clsCategoriaProducto> CategoriaProducto { get; set; }
+public virtual DbSet<clsCategoriaProveedor> CategoriaProveedor { get; set; }
+public virtual DbSet<clsCliente> Cliente { get; set; }
+public virtual DbSet<clsCotizacion> Cotizacion { get; set; }
+public virtual DbSet<clsEstado> Estado { get; set; }
+public virtual DbSet<clsPartidaCotizacion> PartidaCotizacion { get; set; }
+public virtual DbSet<clsPartidaPedido> PartidaPedido { get; set; }
+public virtual DbSet<clsPedido> Pedido { get; set; }
+public virtual DbSet<clsPerfil> Perfil { get; set; }
+public virtual DbSet<clsProducto> Producto { get; set; }
+public virtual DbSet<clsProveedor> Proveedor { get; set; }
+public virtual DbSet<clsRemision> Remision { get; set; }
+public virtual DbSet<clsUsuario> Usuario { get; set; }
+public virtual DbSet<clsVenta> Venta { get; set; }
+public virtual DbSet<clsZona> Zona { get; set; }
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+<-- Forma de llamar una función constante en codeBehind desde JS -->
+
+<script type="text/javascript">
+        // Manejador del evento pageLoaded
+       /* Sys.WebForms.PageRequestManager.getInstance().add_pageLoaded(pageLoadedHandler);*/
+
+        function pageLoadedHandler(sender, args) {
+            // Código JavaScript que muestra la alerta de la API
+            swal("Error", "Seleccione un cliente para realizar la cotización", "error");
+            return true;
+        }
+    </script>
+
+    Se mantiene constante este llamado de función:
+
+    //ScriptManager.RegisterStartupScript(this, this.GetType(), "pageLoadedScript", "Sys.WebForms.PageRequestManager.getInstance().add_pageLoaded(SinCliente);", true);
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+prueba de parametros a js en codebehind:
+
+float numero = (int.Parse(txtCantidad.Text)) * (PrecioUnitario);
+
+string funcion = string.Format($"test('{numero}');");
+ScriptManager.RegisterStartupScript(this, this.GetType(), "testing", funcion, true);
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Datos PDF
+--> Folio
+--> Cliente
+  --> Dirección
+--> Descripción Producto
+--> Imagen
+--> Cantidad de productos cotizados
+
+Obtener folio final con funciones nativas - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+[ActionName("obtenerCodigoFinal")]
+        [HttpGet]
+        public string obtenerCodigo(string id)
+        {
+            try
+            {
+                //Ambas listas son equivalentes
+                List<int> numeros = new List<int>();
+                List<string> codigos = new List<string>();
+
+                IQueryable<string> CodigosProductos = from Producto in bd.Producto
+                                                      where Producto.ID.Contains(id)
+                                                      select Producto.ID;
+
+                foreach (var codigo in CodigosProductos)
+                {
+                    string numero = new string(codigo.Where(char.IsDigit).ToArray());
+                    numeros.Add(int.Parse(numero));
+
+                    codigos.Add(codigo);
+                }
+
+                int[] CodigoMayor = { 0, 0 }; //Guardo {valor, posicion}
+                for (int i = 0; i < numeros.Count(); i++)
+                {
+                    if (numeros[i] > CodigoMayor[0])
+                    {
+                        CodigoMayor[0] = numeros[i]; // Valor
+                        CodigoMayor[1] = i;          // Posición
+                    }
+                }
+
+                string CodigoFinal = codigos[CodigoMayor[1]];
+
+                return CodigoFinal;
+            }
+            catch
+            {
+                return "null";
+            }
+        }
+
+Obtener folio final con exp. Lambda - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Es equivalente al de arriba:
+
+var foliosDistintos = (from cotizacion in bd.Cotizacion
+                                   select cotizacion.Folio).ToList();
+
+            if (!foliosDistintos.Any())
+            {
+                return null;
+            }
+
+            var foliosYnumeros = foliosDistintos
+                .Select(folio => (folio, int.Parse(new string(folio.Where(char.IsDigit).ToArray()))))
+                .ToList();
+
+            var folioFinal = foliosYnumeros
+                .OrderByDescending(x => x.Item2)
+                .First()
+                .folio;
+
+            return folioFinal;
+
+Obtener folio final con exp. Lambda - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+ public class CrearCodigo
+    {
+        PeticionHTTP peticion = new PeticionHTTP("http://localhost:62663/");
+
+        private int numero;     //Recupero el número filtrado
+        private int contador;   //Se asigna el valor que seguirá con la secuencia de la númeración de codigos
+        private int longitud;   //caracteres del folio anterior - los caracteres del prefijo = posiciones disponibles
+
+        private string folio;   //Resultado final del folio
+        private string cadena;  //valores covertidos a string
+        public string GenerarCodigo(string prefijo, string getFolio)
+        {
+            longitud = (getFolio.Length - prefijo.Length);
+
+            cadena = new string(getFolio.Where(char.IsDigit).ToArray());
+            numero = int.Parse(cadena);
+            contador = numero + 1;
+            cadena = contador.ToString();
+
+            // longitud = posiciones disponibles
+            // cadena.Length = número de posiciones que utiliza el número de folio
+            // si la cadena resulta ser mayor, es por que se supero la longitud predeterminada
+            if (longitud > cadena.Length)
+            {
+                //En este punto se rellena el caracter sistematizadamente, siempre y cuando la longitud 
+                //se mayor a las posiciones disponibles
+                string formato = prefijo + new string('0', (longitud - cadena.Length));
+
+                folio =
+                    string.Format($"{formato}{contador}");
+            }
+            else if (longitud < cadena.Length || longitud == cadena.Length) // Se supero o alcanzó la longitud predeterminada
+            {
+                string formato =
+                    string.Format($"{prefijo}{'0'}");
+
+                folio =
+                    string.Format($"{formato}{'0'}");
+            }
+
+            return folio;
+        }
+
+        //¡SOLO SIRVE PARA CREAR EL PRIMER FOLIO!
+        public string GenerarCodigo(string prefijo, int posiciones)
+        {
+            cadena = prefijo + new string('0', (posiciones - 1));
+            contador = 1;
+
+            folio = string.Format($"{cadena}{contador}");
+            return folio;
+        }
+
+        public Dictionary<string, string> ProcesarDatos(DropDownList ddlCategoriaProducto)
+        {
+            int categoriaID = int.Parse(ddlCategoriaProducto.SelectedValue);
+            peticion.PedirComunicacion("CategoriaProductos/ObtenerCategoria/" + categoriaID, MetodoHTTP.GET, TipoContenido.JSON/*, Session["jwt"].ToString()*/);
+            string categoria = peticion.ObtenerJson(); //Categoria seleccionada
+
+            // Quito las comillas
+            string nombreCategoria = categoria.Substring(1, (categoria.Length - 2));
+            string prefijo = nombreCategoria.Substring(0, 3).ToUpper(); //Extraccion de las 3 letras en mayusculas
+
+            peticion.PedirComunicacion("Productos/obtenerCodigoFinal/" + prefijo, MetodoHTTP.GET, TipoContenido.JSON/*, Session["jwt"].ToString()*/);
+            string folioFinal = peticion.ObtenerJson(); //último Código
+
+            Dictionary<string, string> datos = new Dictionary<string, string>()
+            {
+                {"Prefijo"        , prefijo},
+                {"Folio anterior" , folioFinal}
+            };
+
+            return datos;
+        }
+
+    }
+
+  select ((SUM(TotalPartida) * .16) + SUM(TotalPartida)) as 'Total Cotización' from dbo.PartidaCotizacionVenta where Folio = 'COMCOT0000002';
+  select* from dbo.CotizacionVenta where Folio = 'COMCOT0000002';
+
+  select Folio, Unidades, PrecioUnitario, TotalPartida, CriterioAumento from dbo.PartidaCotizacionVenta where Folio = 'COMCOT0000002';
+
+
+
+  SELECT DISTINCT Folio FROM PartidaCotizacion;
+    select* from dbo.PartidaCotizacion where Folio = 'COMACOT0000016';
+
+
+
+
+    --------------------------------------------
+
+    <article class="UpdateNivel mt-2  bg-dark border-Green text-light position-absolute rounded">
+
+                <div class="row justify-content-end m-2">
+                    <asp:ImageButton ID="btnUpdateCloseNivel" runat="server" ImageUrl="~/Media/Resources/close.png" CssClass="closeBtn" OnClick="imgbtnCloseNivel_Click" />
+                </div>
+
+                <h4 class="mb-2">Perfiles</h4>
+
+                <%-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --%>
+                <div class="row justify-content-center text-center mt-2">
+                    <asp:Label ID="Label1" runat="server" Text="Nombre del nivel"></asp:Label>
+                    <asp:TextBox ID="txtUpdatePerfil" runat="server" CssClass="textBox mb-3 mt-3"></asp:TextBox>
+                </div>
+
+                <%-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --%>
+                <div class="row mt-3 text-center">
+                    <div class="col text-end">
+                        <%-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --%>
+                        <div class=" row mb-2">
+                            <div class="col text-end">
+                                <asp:Label ID="" runat="server" Text="Compras"></asp:Label>
+                            </div>
+                            <div class="col text-start">
+                                <asp:CheckBox ID="CheckBox1" runat="server" />
+                            </div>
+                        </div>
+                        <%-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --%>
+                        <div class=" row">
+                            <div class="col text-end">
+                                <asp:Label ID="Label3" runat="server" Text="Ventas"></asp:Label>
+                            </div>
+                            <div class="col text-start">
+                                <asp:CheckBox ID="CheckBox2" runat="server" />
+                            </div>
+                        </div>
+                        <%-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --%>
+                    </div>
+
+                    <div class="col text-start">
+                        <div class="col mb-2">
+                            <div class=" row">
+                                <div class="col text-end">
+                                    <asp:Label ID="Label4" runat="server" Text="Catálogos"></asp:Label>
+                                </div>
+                                <div class="col text-start">
+                                    <asp:CheckBox ID="CheckBox3" runat="server" />
+                                </div>
+                            </div>
+                        </div>
+                        <%-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --%>
+                        <div class="col">
+                            <div class=" row">
+                                <div class="col text-end">
+                                    <asp:Label ID="Label6" runat="server" Text="Sistema"></asp:Label>
+                                </div>
+                                <div class="col text-start">
+                                    <asp:CheckBox ID="CheckBox4" runat="server" />
+                                </div>
+                            </div>
+                        </div>
+                        <%-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --%>
+                    </div>
+
+                </div>
+                 <%-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --%>
+
+                <div class="row text-center justify-content-center mt-2 mb-3">
+                    <asp:ImageButton ID="btnActualizarPerfil" runat="server" ImageUrl="~/Media/Resources/circle-plus-solid.svg" CssClass="confirmar rounded-circle" OnClick="btnActualizarPerfil_Click" />
+                    <asp:Label ID="Label5" runat="server" Text="Actualizar Nivel"></asp:Label>
+                </div>
+            </article>
+
+<%-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - --%>
+CTRL + R =  Response.Redirect(Request.RawUrl);
+
+//protected void gvPartidas_RowUpdating(object sender, GridViewUpdateEventArgs e)
+        //{
+        //    CotizacionDTO Cotizacion = (CotizacionDTO)ViewState["Partidas"];
+        //    float totalCotizacion = 0;
+        //    int Indice = e.RowIndex;
+
+        //    // Obtener el GridView
+        //    GridView gv = sender as GridView;
+        //    GridViewRow fila = gv.Rows[e.RowIndex]; // get fila
+        //    TextBox txtCantidad = fila.FindControl("txtCantidad") as TextBox; //get textbox
+
+        //    //lblCliente.Text = txtCantidad.Text;
+        //    //txtCantidad.Enabled = true;
+
+        //    if (!int.TryParse(txtCantidad.Text, out int unidades) || unidades < 1)
+        //    {
+        //        RegularExpressionValidator REV1 = fila.FindControl("REV1") as RegularExpressionValidator;
+        //        REV1.Enabled = true;
+        //        REV1.IsValid = false; // establecer IsValid en false para mostrar el mensaje de error
+
+        //        return;
+        //    }
+
+        //    Cotizacion.Partidas[Indice].Cantidad = int.Parse(txtCantidad.Text);
+        //    float total = (Cotizacion.Partidas[Indice].Cantidad * Cotizacion.Partidas[Indice].Precio);
+        //    // Actualizar partidas y cotización
+        //    Cotizacion.Partidas[Indice].TotalFormato = total.ToString("C2", new CultureInfo("es-MX"));
+        //    Cotizacion.Partidas[Indice].Total = total;
+        //    //Calculos de totales mas IVA
+        //    Cotizacion.Partidas.ForEach(p => totalCotizacion += p.Total);
+        //    Cotizacion.Total = Convert.ToSingle(totalCotizacion + (totalCotizacion * .16));
+        //    lblTotal.Text = Cotizacion.Total.ToString("C2", new CultureInfo("es-MX"));
+        //    // - - - - - - - - - - - - - - - - - - - - - - - - - 
+        //    gvPartidas.DataSource = Cotizacion.Partidas;
+        //    gvPartidas.DataBind();
+        //}
+
+
+
+        foreach (GridViewRow fila in gvPartidas.Rows)
+            {
+                TableCell celda = fila.Cells[4];
+                TextBox txtCantidad = (TextBox)celda.FindControl("txtCantidad");
+
+                if(!int.TryParse(txtCantidad.Text, out int unidades))
+                {
+                    lblCliente.Text = $"La partida numero {fila.RowIndex + 1} no tiene un formato correcto!!";
+                }
+            }
+
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - 
+Como crear el objeto GridView y como obtener una fila con un evento GridViewDeleteEventArgs e o parecido
+   GridView gv = sender as GridView;
+   GridViewRow fila = gvPartidas.Rows[e.RowIndex];
+// - - - - - - - - - - - - - - - - - - - - - - - - - 
+TextBox txtCantidad = (TextBox)sender;
+GridViewRow fila = (GridViewRow)txtCantidad.NamingContainer;
+int Indice = fila.RowIndex;
+
+
+
+            <%-- <asp:TemplateField HeaderText="Acciones">
+                                    <ItemTemplate>
+                                        <div>
+                                            <asp:ImageButton ID="btnEliminar" runat="server"  CssClass="editar p-1 rounded-2 " ImageUrl="~/Media/Resources/trash-solid.svg"/>
+                                            <asp:ImageButton ID="btnActualizar" runat="server" OnClick ="btnActualizar_Click"  CssClass="editar p-1 rounded-2" ImageUrl="~/Media/Resources/pen-to-square-solid.svg" />
+                                        </div>
+                                    </ItemTemplate>
+                                </asp:TemplateField>--%>
+
+                                
+            ScriptManager.RegisterClientScriptBlock(this, this.GetType(), "Subido", "Subido()", true);
+
+
+            
+
+        //Evento que interactua con el estado del textbox
+        //protected void txtCantidad_TextChanged(object sender, EventArgs e)
+        //{
+        //    CotizacionDTO Cotizacion = (CotizacionDTO)ViewState["Partidas"];
+        //    ActualizarUnidades(Cotizacion);
+        //}
+
+
+
+        Json = JsonConvert.SerializeObject(partidasRemision);
+
+
+        Filtrar lista con una lista ----------------------------
+
+         for(int i = 0; i < VTASaldadasID.Count; i++)
+            {
+                foreach(var partida in cotizacionVenta.Partidas)
+                {
+                    if (partida.ID == VTASaldadasID[i])
+                    {
+                        clsPartidaCotizacion partidaSaldada = new clsPartidaCotizacion()
+                        {
+                            ID = partida.ID,
+                            Folio = partida.Folio,
+                            ProductoID = partida.ProductoID,
+                            Unidades = partida.Cantidad,
+                            PrecioUnitario = partida.Precio,
+                            TotalPartida = partida.Total,
+                            CriterioAumento = partida.CriterioAumento,
+                            Estado = true
+                        };
+
+                        partidasVTASaldadas.Add(partidaSaldada);
+                    }
+                }
+            }
+
+            
+
+        protected void Page_PreRender(object sender, EventArgs e)
+        {
+            
+        }
+
+
+
+
+        // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+        // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+        // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+         //Obtengo los datos de la cotización de la venta
+            // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+            // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+            // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+            peticion.PedirComunicacion($"Ventas/ObtenerCotizacionCompleta/{folioVenta}", MetodoHTTP.GET, TipoContenido.JSON);
+            Json = peticion.ObtenerJson();
+
+            CotizacionDTO cotizacionVenta = JsonConvert.DeserializeObject<CotizacionDTO>(Json);
+            ViewState["PartidasCotizacion"] = cotizacionVenta;
+
+            
+            List<PartidaRemisionDTO> partidasRemision = new List<PartidaRemisionDTO>();
+            foreach (var partida in cotizacionVenta.Partidas)
+            {
+                PartidaRemisionDTO partidaRemision = new PartidaRemisionDTO()
+                {
+                    PartidaVentaID = partida.ID, // --> ID de la partida enlazada a la venta
+                    Partida        = partida.Partida,
+                    Nombre         = partida.Nombre,    
+                    Categoria      = partida.Categoria,  
+                    Imagen         = partida.Imagen,
+                    Cantidad       = partida.Cantidad,
+                };
+                partidasRemision.Add(partidaRemision);
+            }
+            Json = JsonConvertidor.Objeto_Json(partidasRemision);
+            peticion.PedirComunicacion("PartidaRemisiones/TotalesPorRemision", MetodoHTTP.POST, TipoContenido.JSON);
+            peticion.enviarDatos(Json);
+
+            Json = peticion.ObtenerJson();
+            partidasRemision = JsonConvertidor.Json_ListaObjeto<PartidaRemisionDTO>(Json);
+            // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+            // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+            // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+            // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+            // Obtengo las partidas en las que ya se han remitido todas unidades vendidas
+            List<int> VTASaldadasID = partidasRemision.Where(pr => pr.Restantes == 0).Select(pr => pr.PartidaVentaID).ToList();
+            
+            List<clsPartidaCotizacionVenta> partidasVTASaldadas = new List<clsPartidaCotizacionVenta>();
+
+            // Filtro la lista con link y lambda - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+            partidasVTASaldadas.AddRange(cotizacionVenta.Partidas
+                .Where(p => VTASaldadasID.Contains(p.ID))
+                .Select(p => new clsPartidaCotizacionVenta
+                {
+                    ID = p.ID,
+                    Folio = p.Folio,
+                    ProductoID = p.ProductoID,
+                    Unidades = p.Cantidad,
+                    PrecioUnitario = p.Precio,
+                    TotalPartida = p.Total,
+                    CriterioAumento = p.CriterioAumento,
+                    Estado = true
+                }));
+
+            Json = JsonConvertidor.Objeto_Json(partidasVTASaldadas);
+            peticion.PedirComunicacion("PartidaCotizaciones/ActualizarPartidas", MetodoHTTP.PUT, TipoContenido.JSON);
+            peticion.enviarDatos(Json);
+
+            Json = peticion.ObtenerJson();
+
+
+
+            /// Codifica palabras con acentos del HTML
+            HttpUtility.HtmlDecode(VARIABLE);
+
+
+            ///// Como crear peticiones al servidor desde cero/// Fundamentos para contruir mi propia libreria ;3
+
+            //// Construir la URL del controlador
+            //UriBuilder uriBuilder = new UriBuilder("http://localhost:62663");
+            //uriBuilder.Path = "/Cotizaciones/ActualizarCondiciones";
+            //uriBuilder.Query = "id=" + CotizacionActual.Folio + "&condiciones=" + condiciones;
+            //string url = uriBuilder.ToString();
+
+            //// Crear la petición
+            //HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
+            //request.Method = "GET";
+            //request.ContentType = "application/json";
+
+            //// Obtener la respuesta
+            //using (HttpWebResponse response = (HttpWebResponse)request.GetResponse())
+            //{
+            //    using (Stream responseStream = response.GetResponseStream())
+            //    {
+            //        StreamReader reader = new StreamReader(responseStream, Encoding.UTF8);
+            //        string resultado = reader.ReadToEnd();
+            //        // Aquí procesa la respuesta
+            //    }
+            //}
+
+
+            POR METODO POST:
+
+            using (HttpClient client = new HttpClient())
+            {
+                string url = Url.ObtenerUrlServidor() + controlador;
+                // Serializar la clase a JSON
+                string json = JsonConvert.SerializeObject(objeto);
+
+                // Crear el contenido de la solicitud POST
+                HttpContent content = new StringContent(json, Encoding.UTF8, "application/json");
+
+                // Realizar la solicitud POST al controlador y esperar la respuesta
+                HttpResponseMessage response = await client.PostAsync(url, content);
+
+                // Verificar si la solicitud fue exitosa
+                if (response.IsSuccessStatusCode)
+                {
+                    // Leer la respuesta del controlador
+                    string responseContent = await response.Content.ReadAsStringAsync();
+                }
+                else
+                {
+                    string mensajeError = response.ReasonPhrase;
+                }
+            }
+
+            //- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+            // Construir la URL del controlador
+            string controlador = "Cotizaciones";
+            string action = "ActualizarCondiciones";
+            string parametros = $"?id={Folio}&condiciones={condiciones}";
+            string url = $"{controlador}/{action}/{parametros}";
+
+
+            //// - - - - - - - - - - - - - - - - - - - - - - - - --  -- - - - 
+
+            //cotizaciones.ForEach(c =>
+            //{
+            //    //c.FechaCorta = c.GetType().GetProperty(formatoFecha).GetValue(c).ToString();
+            //    c.FechaCorta = c.GetType().GetProperty(formatoFecha).GetValue(c).ToString();
+            //    c.TotalFormato = c.Total.ToString(formatoTotal, new CultureInfo("es-MX"));
+            //});
+
+            // Borrar Producto - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+            //protected void btnEliminar_Click(object sender, EventArgs e)
+            //{
+            //    Button btn = (Button)sender;
+            //    string ProductoID = btn.CommandArgument;
+            
+            //    // Hacer algo con el ID del producto - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+            //    peticion.PedirComunicacion("Productos/ObtenerProducto/" + ProductoID, MetodoHTTP.GET, TipoContenido.JSON/*, Session["jwt"].ToString()*/);
+            //    Json = peticion.ObtenerJson();
+            
+            //    ProductoDTO producto = JsonConvertidor.Json_ListaObjeto<ProductoDTO>(Json).FirstOrDefault();
+            
+            //    String rutaImagen = Server.MapPath("~/Multimedia/") + producto.Imagen;
+            //    System.IO.File.Delete(rutaImagen);
+            //    // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+            //    //ObtenerProductoString
+            //    peticion.PedirComunicacion("Productos/BorrarProducto/" + ProductoID, MetodoHTTP.DELETE, TipoContenido.JSON);
+            //    Json = peticion.ObtenerJson();
+            
+            //    //MostrarProductos
+            //    peticion.PedirComunicacion("Productos/MostrarProductos", MetodoHTTP.GET, TipoContenido.JSON);
+            //    Json = peticion.ObtenerJson();
+            
+            //    List<ProductoDTO> Productos = JsonConvertidor.Json_ListaObjeto<ProductoDTO>(Json);
+            
+            //    repProductos.DataSource = Productos;
+            //    repProductos.DataBind();
+            
+            //    ClientScript.RegisterStartupScript(GetType(), "script", "Borrado()", true);
+            //}
+
+
+
+
+            // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+                //bd.Entry(Clientes).State = System.Data.Entity.EntityState.Modified;
+                //bd.SaveChanges();
+
+
+                ACCIONES ASINCRONAS
+
+                
+
+
+        //      public async void IniciarBD()
+        //{
+        //          clsPerfil SuperAdmin = new clsPerfil()
+        //          {
+        //              Nombre = "Super Admin",
+        //              Accesos = "1111"
+        //          };
+        //          await ComunicarServidor(SuperAdmin, "Perfiles/IniciarPerfilBD");
+
+        //          clsUsuario UserSuperAdmin = new clsUsuario()
+        //          {
+        //              Nombre = "AlexandherCM",
+        //              Correo = "alexandhercordoba378@gmail.com",
+        //              Contraseña = "2312-ACM"
+        //          };
+        //          await ComunicarServidor(UserSuperAdmin, "Usuarios/IniciarUsuarioBD");
+        //      }
+
+        //private async Task ComunicarServidor(object objeto, string controlador)
+        //{
+        //    using (HttpClient client = new HttpClient())
+        //    {
+        //        string url = Url.ObtenerUrlServidor() + controlador;
+        //        // Serializar la clase a JSON
+        //        string json = JsonConvert.SerializeObject(objeto);
+
+        //        // Crear el contenido de la solicitud POST
+        //        HttpContent content = new StringContent(json, Encoding.UTF8, "application/json");
+
+        //        // Realizar la solicitud POST al controlador y esperar la respuesta
+        //        HttpResponseMessage response = await client.PostAsync(url, content);
+
+        //        // Verificar si la solicitud fue exitosa
+        //        if (response.IsSuccessStatusCode)
+        //        {
+        //            // Leer la respuesta del controlador
+        //            string responseContent = await response.Content.ReadAsStringAsync();
+        //        }
+        //        else
+        //        {
+        //            string mensajeError = response.ReasonPhrase;
+        //        }
+        //    }
+        //}
